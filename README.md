@@ -20,6 +20,6 @@ To run the program on your computer:
 
 3) change the username and/or password as you wish (the default username is admin and the default password is 1234)
 
-4) run the program using either VS Code or directly from the command line (\b python3 script.py or python script.py)
+4) run the program using either VS Code or directly from the command line (python3 script.py or python script.py)
 
 5) Enjoy!
