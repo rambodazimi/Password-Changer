@@ -1,5 +1,5 @@
-# Password-Changer
-A python script to login to the Zebra Technologies printer admin panel and changes its password
+# Zebra-Password-Changer
+A python script to login to the Zebra printer's admin panel and changes the admin password
 
 Author: Rambod Azimi
 
